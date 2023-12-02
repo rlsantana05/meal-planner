@@ -1,1 +1,1 @@
-# meal-plan
+# meal-planner
